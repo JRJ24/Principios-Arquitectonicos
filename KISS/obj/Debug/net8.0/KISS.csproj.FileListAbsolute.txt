@@ -1,0 +1,14 @@
+C:\Users\RJ\source\repos\Arquitectonicos\KISS\obj\Debug\net8.0\KISS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RJ\source\repos\Arquitectonicos\KISS\obj\Debug\net8.0\KISS.AssemblyInfoInputs.cache
+C:\Users\RJ\source\repos\Arquitectonicos\KISS\obj\Debug\net8.0\KISS.AssemblyInfo.cs
+C:\Users\RJ\source\repos\Arquitectonicos\KISS\obj\Debug\net8.0\KISS.csproj.CoreCompileInputs.cache
+C:\Users\RJ\source\repos\Arquitectonicos\KISS\bin\Debug\net8.0\KISS.exe
+C:\Users\RJ\source\repos\Arquitectonicos\KISS\bin\Debug\net8.0\KISS.deps.json
+C:\Users\RJ\source\repos\Arquitectonicos\KISS\bin\Debug\net8.0\KISS.runtimeconfig.json
+C:\Users\RJ\source\repos\Arquitectonicos\KISS\bin\Debug\net8.0\KISS.dll
+C:\Users\RJ\source\repos\Arquitectonicos\KISS\bin\Debug\net8.0\KISS.pdb
+C:\Users\RJ\source\repos\Arquitectonicos\KISS\obj\Debug\net8.0\KISS.dll
+C:\Users\RJ\source\repos\Arquitectonicos\KISS\obj\Debug\net8.0\refint\KISS.dll
+C:\Users\RJ\source\repos\Arquitectonicos\KISS\obj\Debug\net8.0\KISS.pdb
+C:\Users\RJ\source\repos\Arquitectonicos\KISS\obj\Debug\net8.0\KISS.genruntimeconfig.cache
+C:\Users\RJ\source\repos\Arquitectonicos\KISS\obj\Debug\net8.0\ref\KISS.dll
